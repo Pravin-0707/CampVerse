@@ -1,0 +1,18 @@
+[
+  {
+    "file": "./Map/clg campustopoexport-C72428/topoexport_2D_vectorial.dxf",
+    "error": "Unexpected end of input: EOF group not read before end of file. Ended on code undefined"
+  },
+  {
+    "file": "./Map/clg campustopoexport-C72428/topoexport_3D_modeling.dxf",
+    "error": "Unexpected end of input: EOF group not read before end of file. Ended on code undefined"
+  },
+  {
+    "file": "./Map/clgcampusextendedtopoexport-ADBD1A/topoexport_2D_vectorial.dxf",
+    "error": "Unexpected end of input: EOF group not read before end of file. Ended on code undefined"
+  },
+  {
+    "file": "./Map/clgcampusextendedtopoexport-ADBD1A/topoexport_3D_modeling.dxf",
+    "error": "Unexpected end of input: EOF group not read before end of file. Ended on code undefined"
+  }
+]
