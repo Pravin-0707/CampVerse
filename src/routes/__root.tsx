@@ -75,14 +75,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Smart Cadence Grid — Campus Intelligence" },
+      { title: "CampVerse — Campus Intelligence" },
       {
         name: "description",
         content:
           "A campus intelligence dashboard for navigation, monitoring, and real-time operations.",
       },
       { name: "theme-color", content: "#0b1020" },
-      { property: "og:title", content: "Smart Cadence Grid" },
+      { property: "og:title", content: "CampVerse" },
       {
         property: "og:description",
         content: "Campus intelligence dashboard for modern college campuses.",
